@@ -1,3 +1,5 @@
+package com.dsa.sort
+
 fun findMaxIndex(arr: IntArray, start: Int, end: Int): Int {
     var maxIndex = start
     for (i in start + 1 until end) {
