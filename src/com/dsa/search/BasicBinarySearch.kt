@@ -1,3 +1,5 @@
+package com.dsa.search
+
 class BasicBinarySearch {
 
     fun binarySearch(arr: IntArray, target: Int): Int {
